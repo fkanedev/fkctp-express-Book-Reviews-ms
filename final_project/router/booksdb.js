@@ -1,3 +1,4 @@
+/*
 let books1 = {
       1: {"author": "Chinua Achebe","title": "Things Fall Apart", "reviews": {} },
       2: {"author": "Hans Christian Andersen","title": "Fairy tales", "reviews": {} },
@@ -10,7 +11,11 @@ let books1 = {
       9: {"author": "Honor\u00e9 de Balzac","title": "Le P\u00e8re Goriot", "reviews": {} },
       10: {"author": "Samuel Beckett","title": "Molloy, Malone Dies, The Unnamable, the trilogy", "reviews": {} }
 }
+*/
 
+// Retrieved "isbn" and some "reviews" for many books in the list from internet.
+
+// The new book list...  
 let books = {
       1: {"author": "Chinua Achebe","title": "Things Fall Apart", "isbn": "978-0385474542", "reviews": {"Nadine Gordimer": "Chinua Achebe is gloriously gifted with the magic of an ebullient, generous, great talent."} },
       2: {"author": "Hans Christian Andersen","title": "Fairy tales", "isbn": "978-1841353586", "reviews": {"Sarah Goodreads reviewer": "Andersen's enchanting tales continue to resonate across generations. Timeless and magical storytelling."} },
