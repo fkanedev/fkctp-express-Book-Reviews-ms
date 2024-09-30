@@ -8,6 +8,10 @@
 
 This project involves developing a microservice for managing book reviews and implementing CRUD endpoints. It demonstrates the practical application of Express.js in a real-world scenario. It's part of my training in the [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer), utilizing a [template](https://github.com/ibm-developer-skills-network/expressBookReviews) provided by IBM Developer Skills Network.
 
+# Topics
+
+`Python 3.8`, `Flask`, `Microservices`, `REST API`, `CI/CD`, `GitHub Actions`, `Tekton`, `OpenShift`, `Nose`, `Pylint`, `MIT License`, `DevOps`, `IBM DevOps and Software Engineering Professional Certificate`
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Technologies Used](#technologies-used)
