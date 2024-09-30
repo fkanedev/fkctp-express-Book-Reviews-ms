@@ -10,7 +10,7 @@ This project involves developing a microservice for managing book reviews and im
 
 # Topics
 
-`Python 3.8`, `Flask`, `Microservices`, `REST API`, `CI/CD`, `GitHub Actions`, `Tekton`, `OpenShift`, `Nose`, `Pylint`, `MIT License`, `DevOps`, `IBM DevOps and Software Engineering Professional Certificate`
+`Node.js`, `Express.js`, `JWT`, `Session Management`, `Microservices`, `CRUD`, `API`, `JavaScript`, `MIT License`, `IBM Full Stack Software Developer Professional Certificate`
 
 ## Table of Contents
 1. [Introduction](#introduction)
